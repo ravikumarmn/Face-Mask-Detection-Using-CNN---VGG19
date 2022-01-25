@@ -1,6 +1,8 @@
 # Face-Mask-Detection-Using-CNN---VGG19
 Classification of Wearing Mask and Not wearing Mask. [Binary Classification]
 
+![image](https://user-images.githubusercontent.com/82469850/150939234-40af170b-a77b-4ede-bfd6-1e0bc2adbed5.png)
+
 
 Social distancing, also called “physical distancing,” means keeping a safe space between yourself and other people who are not from your household.
 To practice social or physical distancing, stay at least 6 feet (about 2 arm lengths) from other people who are not from your household in both indoor and outdoor spaces.
@@ -25,3 +27,4 @@ Use trained model to predict in the real time face mask detection.
 
 ## Step 5 : Use "Esc" key to end the detection.
 
+## Reference : [Kaggle Notebook](https://www.kaggle.com/ravikumarmn/face-mask-detection) 👍
