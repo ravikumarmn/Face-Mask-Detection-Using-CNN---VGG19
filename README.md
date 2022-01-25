@@ -27,4 +27,4 @@ Use trained model to predict in the real time face mask detection.
 
 ## Step 5 : Use "Esc" Key To End The Detection.
 
-## Reference : Face Mask Detection Notebook](https://www.kaggle.com/ravikumarmn/face-mask-detection) 👍
+## Reference : [Face Mask Detection Notebook](https://www.kaggle.com/ravikumarmn/face-mask-detection) 👍
